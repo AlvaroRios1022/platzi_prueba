@@ -6,11 +6,11 @@ body{
 
     font-family: Arial, Helvetica, sans-serif;
     background-color: blue;
-
 }
 
 
 #cabecera{
-    color:blue
+    color:blue;
+    text-align: center;
 
 }
