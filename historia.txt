@@ -5,5 +5,9 @@ alvaro.riosp@hotmail.com
 toco bajo y guitarra
 
 
+<<<<<<< HEAD
 
 prueba merge
+=======
+footer
+>>>>>>> footer
